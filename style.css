@@ -10,3 +10,6 @@
 ::-webkit-scrollbar-thumb { height: 50px; background-color: #202020; border-radius: 3px;}
 ::-webkit-scrollbar-corner { background-color: #000;}
 ::-webkit-resizer { background-color: #000;}
+body {
+    background-color: #364269;
+}
